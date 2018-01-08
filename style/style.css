@@ -1,5 +1,6 @@
 .greenText {
 	color: #3CF000;
+	text-align: center;
 }
 
 body {
@@ -20,3 +21,6 @@ a {
 	width: 1000px;
 }
 
+.image {
+text-align: center;
+}
