@@ -15,8 +15,9 @@ a {
 	color: #F18500;
 }
 
-#lol {
+#border {
 	border: 4px solid #faa21a;
 	width: 1000px;
+	pading: 10px;
 }
 
