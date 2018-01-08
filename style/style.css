@@ -24,18 +24,3 @@ a {
 .greenTextInTexteria {
 	color: #3CF000;
 }
-
-.textaria {
-    border: 1px solid #333333;
-	height: 27px;
-	background-image: url(../image/inputbg.jpg);
-	background-repeat: repeat-x;
-	width: 300px;
-	font: 12px;	
-}
-
-.textaria:focus {
-	border: 2px solid #1351B4;
-	background: none;
-	background-color: #ffffff;
-}
