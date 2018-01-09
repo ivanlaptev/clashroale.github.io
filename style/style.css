@@ -25,9 +25,3 @@ a {
 .greenTextInTexteria {
 	color: #3CF000;
 }
-
-p input{
-border:0px;
-background:transparent;
-background-image: url(../image/send_button.png)
-}
