@@ -12,12 +12,12 @@ a {
 	color: #F4FF14;
 }
 
-#border {
+#border,lable {
 	color: #F18500;
     	cursor: pointer;
 }
 
-#border,lable {
+#border {
 	border: 4px solid #faa21a;
 	width: 1000px;
 }
