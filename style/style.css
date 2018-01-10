@@ -30,3 +30,7 @@ a {
 	with:1084 px;
 	height:151 px;
 }
+
+.send{
+	cursor: pointer;
+}
