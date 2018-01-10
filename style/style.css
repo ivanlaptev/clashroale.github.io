@@ -25,12 +25,7 @@ a {
 	color: #3CF000;
 }
 
-#baner2 {
-    right: 0;
-    display: none;
-}
-
-#baner1, #baner2 {
-    position: absolute;
-    top: -1px;
+#baner {
+	with:1084px;
+	height:151px;
 }
