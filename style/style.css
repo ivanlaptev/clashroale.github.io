@@ -25,13 +25,12 @@ a {
 	color: #3CF000;
 }
 
-#baner {
-	border:9px #c1c1c1;
-	with:1084px;
-	height:151px;
-	margin: 30px auto;
+#baner2 {
+    right: 0;
+    display: none;
 }
 
-.send {
-	cursor: pointer;
+#baner1, #baner 2 {
+    position: absolute;
+    top: -1px;
 }
