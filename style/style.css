@@ -26,9 +26,10 @@ a {
 }
 
 #baner {
-	border:50 px #c1c1c1;
-	with:1084 px;
-	height:151 px;
+	border:50px #c1c1c1;
+	with:1084px;
+	height:151px;
+	margin: 30px auto;
 }
 
 .send{
